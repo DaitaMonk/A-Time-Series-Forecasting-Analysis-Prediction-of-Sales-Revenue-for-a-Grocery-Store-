@@ -4,7 +4,7 @@
 ## Summary
 | Code      | Name        | Published Article |  Deployed App |
 |-----------|-------------|:-------------:|------:|
-| LP2 | Churn Analysis |        |          |
+| LP3 | |        |          |
 
 
 ## Author
