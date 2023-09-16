@@ -24,7 +24,8 @@ The key business goals of this project include:
 
 | Code | Name                                |                                                                                               Published Article                                                                                                | Deployed App |
 | ---- | ----------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | -----------: |
-| LP3  | Store Sales Time Series Forecasting | [Article](https://medium.com/@chipmnkal/store-sales-time-series-forecasting-4c3bbc6eaca2) [Power BI] (https://app.powerbi.com/links/TFS5BUkmNP?ctid=4487b52f-f118-4830-b49d-3c298cb71075&pbi_source=linkShare) |              |
+| LP3  | Store Sales Time Series Forecasting | [Article](https://medium.com/@chipmnkal/store-sales-time-series-forecasting-4c3bbc6eaca2)
+[Power BI](https://app.powerbi.com/links/TFS5BUkmNP?ctid=4487b52f-f118-4830-b49d-3c298cb71075&pbi_source=linkShare) |              |
 
 ## Questions
 
